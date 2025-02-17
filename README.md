@@ -280,7 +280,7 @@ alter table transactions drop column standard_cost;
 ```
 
 ### Cкриншоты успешного выполнения
-customers — информация о клиенте  
+customers — информация о клиенте     
 ![1_customers](customers.png)
 
 customer_wealth — работа и доход клиента
